@@ -1,30 +1,23 @@
-## Welcome to GitHub Pages
+# Lawrence Strenger's first CS193 Lab
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am very hungry.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you click this [link](https://lawrencestrenger.github.io/CS193_Fall18_Lab1/), you will just end up at this website again.
 
-### Markdown
+## CS 193
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+It is a class with lab and lecture.
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Best Parts of CS 193
 
-- Bulleted
-- List
+- It is once a week
+- It has no exams
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+## Here is some more general website information:
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
